@@ -3,8 +3,7 @@ sys.path.append("~/Developer/ChattyGift/utils")
 
 from flask import Flask
 from flask import Flask, render_template, session, request
-from flask_socketio import SocketIO, emit, join_room, leave_room, \
-    close_room, rooms, disconnect
+
  
 import requests
 import card_methods 
@@ -14,7 +13,6 @@ import time
 from urllib.parse import unquote
 
 app = Flask(__name__)
-socketio = SocketIO(app)
 
 @app.route('/')
 def get_client_message():
