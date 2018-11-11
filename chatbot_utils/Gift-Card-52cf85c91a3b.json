@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gift-card-61e41",
+  "private_key_id": "52cf85c91a3b4e1549b2238e0dd4142b2532d0a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoKXdImNOXIX5B\n+h8hpNDAQhCh7AaJcX8Px4LfiXp5cLQkXhdPiIm5Yto0nXoYqdRdpQKtPPS9QrKJ\nGFriCIOPEQmtYJBJ2oD/Hm/oHejIsv+M+jpkCFHaMHcQvS5qHhectZ2fjhkTT61p\n+qp1mWHqtykwzYnnUpLm/bWu/uhcakJ19MhIdEw6lVvxkjLZ0OYtN6XSo1AdyJNV\neO/CdNWbHmQub6eVv+INLkCnurJFWswxVCm/f67n1bXmFQJU4fJI4kNIreu9868Y\nVULAKIlXhIbuS64J4IQjpbfwmZLjRtMB1DLdJzwOW9qkT5WqC/S5Owb72IGojfqd\nVMgKKOUrAgMBAAECggEAJW9xuA4ZkHvqzQo+8vDrbdlnNXzDKcbD6AHcryG+S5mc\n6Lmvi8uUCVqpw+vIugPYnG43DdTTkOxvrVhoJwiJLQi4dEnaZS6I6AJhHDXIVCGR\nBVPROuKlQiLm5qmO0x3W2NKPf+0UxPlIXB7q4poeM6/Jsi0XhZEa1eRmFUp29Ndw\nF59sS4y1Pu8QZKuZn+Zp+ZhM/XfXzSnX6qObOkEWtfxw4i3LNu0ZJTZ78Ch4k0xk\nWp2+OjQ27dUVDSdikL2xB5I/GJwgvbaMo7BUYvT7d0Y9tKeoWaKyFyM3cR9Q+ki3\nxWpHmClP6WMFslRO10+Qrf/XOjc3XqPSvuOcGCMb7QKBgQDk7VXBRtu8GxLurvSR\nDd5AOEMohT6dZ2hPE0Bt8K33fX0yOuFvRS59gsRYTgmiXqQEas6jjHHlkeFtkpOM\nL19DiyJDMq0sKKE2Ns79y9St9YiZzN0lSa7/ZgyIwYol7RKjTBbH7v7RaF9u+Dtx\nXcTTbl6l80xlLYssL3dipwcdlwKBgQC8DH6RLfRRspc0j+soXRPJp+Jlq7Xvc2Wp\nMEUXLkmBMeuCJbFOivDdLb8WEzLeprZdh3BbTpp70lgA3wfd3SSHtl3gFT6WDXpe\nGaqOETHIRQuxR7Hy+60vU02HlDjg22XIF+VspGR6baTptITFqmageJHw9eed3WbR\nFXLei0RPjQKBgF2QBolszWfO5Oj6Rmh2c4xpskEAXDv2xHH1G1MTl/Zbqmx6FiLk\n8oBHjrnMgzGCXqSThorfXrmF6s1ep8EWp2eymLlAH/i5TlIbCnQ991l1zXOWgBe6\nSrSFX8AQ4cZoY0KsWW8zZZ/ueXqgJ6NIwKXtKO/IRUPg3k2bxL5kJ4tXAoGAJAoA\n97Hm8QFZGSm717B+6lbSfMm7xHhJM3OcyiSE0c3PZNH0eSkHoFv0Ezb6uNEagjJC\nxjz6PmDBnOkhiNOo/JlmxFtN81QB76bbmP6Sm98froofAIJbXoaIhUNS40Uo7IAn\n5/pZh10cDe4axAc0Q+zXi2aVTRvxaIDD0wK9xMECgYEAjzU3IwJ6x0mKl5CnXCrZ\nKA/zfp0NaR+6Va5QfAlFDw2ofc3rLveWAR76hr4bm/k/lkYIHM9oxe/3yAccCYeh\nK632KIFB7erMaOK1tWxTm8Hk1322ep/vFbkuvn2np8ieEsGm+9pspQkMxUl5HpC3\noLwkpiPngSrMWr50SV1EU2Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-qthmpx@gift-card-61e41.iam.gserviceaccount.com",
+  "client_id": "102468660641113466093",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-qthmpx%40gift-card-61e41.iam.gserviceaccount.com"
+}
