@@ -11,17 +11,19 @@ import card_methods
 import chatbot_utils.chatbot_responses as chat
 import json
 import time
+from urllib.parse import unquote
 
 app = Flask(__name__)
 socketio = SocketIO(app)
 
 @app.route('/')
 def get_client_message():
-    message = request.args("message")
-    response = chat.chatbot_output(message)
+    message = unquote(request.args['message'])
+    print(message)
+    response = chat.process_input(message)
     if response['final'] != {}:
         response["code"] = card_methods.issue_digital_card(response["code"]["brands"], response["code"]["cost"]["amount"])
-    response = json(response)
+    response = json.dumps(response)
     return response
 
 @app.route('/card')
